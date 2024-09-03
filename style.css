@@ -397,22 +397,6 @@ div {
   color: #fec318;
 }
 
-/* 
-@media screen and (min-width:250px) and (max-width:480px) {
-    .main-container {
-        display: grid;
-        grid-template-columns: auto ;
-      }
-      .element2 {
-        grid-column: 1;
-        grid-row: 1;
-        background-color: #F7F8F9;
-        display: grid;
-        justify-items: center;
-        align-content: center;
-      }
-  } */
-
 @media screen and (min-width:150px) and (max-width: 480px) {
   .main-container {
     grid-template-columns: auto;
